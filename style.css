@@ -1,0 +1,43 @@
+body{
+    background-color: #5373f2;
+    color: white;
+    text-align: center;
+}
+
+h1{
+    margin-top: 150px;
+}
+
+.box{
+    background-color: #ccd4fb;
+    margin-left: 30%;
+    height: 220px;
+    width: 587px;
+    padding-top: 35px;
+    color: #5373f2;
+    border-radius: 20px;
+    box-shadow: 9px 21px 36px black;
+    text-align: center;
+}
+
+#mainContent{
+    font-size: 20px;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+
+#author{
+    text-align: end;
+    margin-right: 45px;
+}
+
+button{
+    background-color: #5373f2;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    margin-top: 10px;
+    height: 30px;
+    width: 140px;
+    box-shadow: 9px 16px 30px black;
+}
